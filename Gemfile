@@ -8,6 +8,7 @@ gem 'rails', '3.2.13'
 gem 'sqlite3'
 
 gem 'rspec-rails'
+gem 'ZenTest'
 gem 'autotest-rails'
 gem 'coveralls'
 
