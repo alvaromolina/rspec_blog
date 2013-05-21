@@ -8,9 +8,10 @@ gem 'rails', '3.2.13'
 gem 'sqlite3'
 
 gem 'rspec-rails'
-gem 'ZenTest'
+gem 'ZenTest', '~> 4.5'
 gem 'autotest-rails'
 gem 'coveralls'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
