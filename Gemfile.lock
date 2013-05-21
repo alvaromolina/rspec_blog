@@ -131,6 +131,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ZenTest
   autotest-rails
   coffee-rails (~> 3.2.1)
   coveralls
