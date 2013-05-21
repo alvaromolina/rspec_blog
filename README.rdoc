@@ -26,6 +26,11 @@ Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
 
+
+== Code
+
+{<img src="https://coveralls.io/repos/alvaromolina/rspec_blog/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/alvaromolina/rspec_blog]
+
 == Getting Started
 
 1. At the command prompt, create a new Rails application:
